@@ -1,1 +1,2 @@
 "clase de git" 
+"clase dos de visual" 
