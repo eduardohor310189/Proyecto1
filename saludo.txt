@@ -1,2 +1,1 @@
-"Hola mundo" 
-"los alumnos de 5to B estudiaron mucho estas vacaciones"
+"clase de git" 
